@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princeedett
-- 👀 I’m interested in creating smart contracts on the etherum blockchain.
-- 🌱 I’m currently learning Solidity and will be needing all the help and tips.
+- 👀 I’m interested in collaborating. 
+- 🌱 I was learning solidity, I guess I ll stick with designing for now.. 
 - 💞️ 
 - 📫 
 
