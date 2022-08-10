@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princeedett
 - 👀 I’m interested in collaborating. 
-- 🌱 I was learning solidity, I guess I ll stick with designing for now.. 
+- 🌱 I was learning solidity, I guess I ll stick with design for now.. 
 - 💞️ 
 - 📫 
 
